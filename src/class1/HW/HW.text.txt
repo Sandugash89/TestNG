@@ -1,0 +1,3 @@
+Task 1: Executing tests using @Test
+● Create three tests with unique @test methods names.
+● Execute all test methods
